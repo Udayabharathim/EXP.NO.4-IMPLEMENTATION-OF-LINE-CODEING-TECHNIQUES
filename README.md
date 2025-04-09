@@ -34,10 +34,11 @@ observe Unipolar out at post OUT.
 ![image](https://github.com/user-attachments/assets/ea9544fc-02a7-4f82-a396-76c8d4cc8b74)
 
 ## MODEL GRAPH
-![image](https://github.com/user-attachments/assets/92876b97-59d5-438c-bf3d-1a5e36ce526d)
+![Screenshot 2025-04-09 102056](https://github.com/user-attachments/assets/d90f8ec8-fbd9-4c52-ac14-37f09265eac3)
+
 
 ## TABLE
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/92876b97-59d5-438c-bf3d-1a5e36ce526d)
 
 ## OUTPUT GRAPHS
 ![WhatsApp Image 2025-04-09 at 10 55 18_7d0a30dc](https://github.com/user-attachments/assets/04a67e94-4e23-4cf8-acc0-130671cffd37)
